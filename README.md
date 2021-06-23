@@ -4,6 +4,7 @@ Python AI maze solver
 Make Sure download full folder
 
 StackFrontier = Depth for Search
+
 QueuFrontier = Breadth for Search
 
 to change in Depth for Search and Breadth for Search, change frontier in line 127 in Maze.py file.
