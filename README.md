@@ -1,6 +1,8 @@
 # Maze-solver-AI
 Python AI maze solver
 
+Video to operate - https://www.youtube.com/watch?v=rBSqUfZFjA0
+
 Make Sure download full folder
 
 StackFrontier = Depth for Search
